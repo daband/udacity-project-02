@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - 'main'
-      - 'azurepipeline'
+      - 'thang-udacity'
 
 jobs:
   build:
