@@ -166,8 +166,8 @@ And the report: `locust-report.html`
 ## Demo Links:
 
 
-[Github Action](https://youtu.be/FIfIcomB-Ak)
+[Github Action](https://drive.google.com/file/d/1etTkdyS3o3eALh3vIO1HJ7PZqoPk0s_t/view?usp=sharing)
 
 
-[CICD](https://youtu.be/NnCFK7AULq0)
+[CICD](https://drive.google.com/file/d/1vvzRnr0wL2zr1FYKZTOyKNFuJVOjo_kb/view?usp=sharing)
 
