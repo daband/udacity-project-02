@@ -139,11 +139,13 @@ For more details, please refer to the video links in the "Demo Links" section.
 
 
 A screenshot demonstrating the project cloned into Azure Cloud Shell:
-![clone](./image/21.png)
+![clone](./image/211.png)
 
 
 A screenshot showing the passing tests displayed after running the make all command from the Makefile, along with the output of a test run:
-![makefile](./image/20.png)
+![clone](./image/2221.png)
+
+![clone](./image/221.png)
 
 
 ## Continuous Delivery
@@ -155,13 +157,7 @@ locust -f locustfile.py
 ```
 
 Result:
-
-
-![clone](./image/211.png)
-
-![clone](./image/2221.png)
-
-![clone](./image/221.png)
+![clone](./image/locust.png.png)
 
 
 And the report: `locust-report.html`
