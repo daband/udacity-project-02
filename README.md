@@ -157,7 +157,7 @@ locust -f locustfile.py
 ```
 
 Result:
-![clone](./image/locust.png.png)
+![clone](./image/locust.png)
 
 
 And the report: `locust-report.html`
