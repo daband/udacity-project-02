@@ -1,6 +1,6 @@
 # Udacity Project 2: Building a CI/CD Pipeline
 
-[![Flask application test with Github Actions](https://github.com/nghiattr/udacity-devops-project2/actions/workflows/pylint.yml/badge.svg)](https://github.com/nghiattr/udacity-devops-project2/actions/workflows/pylint.yml)
+[![Flask application test with Github Actions](https://github.com/daband/udacity-project-02/blob/thang-udacity/.github/workflows/pylint.yml)
 
 
 ## Overview and Architectural Diagram
