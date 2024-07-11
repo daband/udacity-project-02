@@ -188,5 +188,3 @@ And the report: `locust-report.html`
 
 [CICD](https://youtu.be/NnCFK7AULq0)
 
-
-## Test github action commit
