@@ -11,7 +11,7 @@ model = RandomForestRegressor()  # Example model, replace with your own
 
 @app.route('/')
 def index():
-    return 'Hello, World!'
+    return 'Hello, World! And test CICD for project 2'
 
 @app.route('/predict', methods=['POST'])
 def predict():
