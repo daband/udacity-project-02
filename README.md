@@ -165,9 +165,5 @@ And the report: `locust-report.html`
 
 ## Demo Links:
 
-
-[CI Demo](https://youtu.be/go2142esx1o))
-
-
-[CICD Demo](https://youtu.be/xHHKcJuRQ1k)
+[CICD Demo](https://youtu.be/TcILhI9MMuw)
 
